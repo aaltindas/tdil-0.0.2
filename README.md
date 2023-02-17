@@ -11,7 +11,7 @@ Python 3.10.8 is supported.
 ## Quickstart
 ```python
 
-from src.sep import Turkce
+from tdil.Turkce import Turkce
 
 turkce = Turkce()
 
