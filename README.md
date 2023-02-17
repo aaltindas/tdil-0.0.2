@@ -1,5 +1,5 @@
 ## Version
-0.0.1
+0.0.2
 
 ## Python Version
 Python 3.10.8 is supported. 
